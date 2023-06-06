@@ -42,7 +42,8 @@ Demo made by <a href=https://twitter.com/BlakeWerlinger>Blake Werlinger</a>
 3. Follow the [installation instructions][docs/setup]
 4. Configure any additional features you want, or install some [plugins][docs/plugins]
 5. [Run][docs/usage] the app
-
+6. docker-compose build auto-gpt
+7. docker-compose run auto-gpt
 Please see the [documentation][docs] for full setup instructions and configuration options.
 
 [docs]: https://docs.agpt.co/
